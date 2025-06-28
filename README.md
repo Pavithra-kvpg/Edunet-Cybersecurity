@@ -38,7 +38,7 @@ cd Intrusion-Detection-System
 pip install -r 
 requirements.txt
 
-🔐 Email Alert Setup
+## 🔐 Email Alert Setup
 
 Edit the ids.py file with your credentials:
 
