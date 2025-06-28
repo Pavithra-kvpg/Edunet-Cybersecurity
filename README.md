@@ -54,7 +54,7 @@ Visit https://myaccount.google.com/apppasswords
 
 Generate an app-specific password and use it in the code
 
-▶️ How to Run
+## ▶️ How to Run
 
 1. Start the IDS
 
@@ -70,7 +70,7 @@ streamlit run ids_gui.py
 
 > Opens a web dashboard for live monitoring.
 
-📊 Sample Log Format
+## 📊 Sample Log Format
 
 Time	Source IP	Destination IP	Protocol	Alert Reason
 
